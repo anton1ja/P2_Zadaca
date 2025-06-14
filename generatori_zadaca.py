@@ -1,7 +1,6 @@
 # Napraviti generator funkcije za ispis svih parnih i svih neparnih brojeva manjih od prosljeđenog parametra.
 
 def parni(maks):
-
     a = 0
     
     while a < maks:
@@ -9,7 +8,6 @@ def parni(maks):
         a += 2
 
 def neparni(maks):
-
     b = 1
 
     while b < maks:
